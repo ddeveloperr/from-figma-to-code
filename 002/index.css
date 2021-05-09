@@ -24,3 +24,18 @@ a {
     border-radius: .4rem;
     max-width: 270px;
 }
+
+p.title {
+    color: white;
+    font-size: 1.2rem;
+    line-height: 119.7%;
+}
+
+p.description {
+    color: #8D91A6;
+    font-size: .8rem;
+}
+
+.link {
+    width: .8rem;
+}
