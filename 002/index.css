@@ -39,3 +39,33 @@ p.description {
 .link {
     width: .8rem;
 }
+
+@media only screen and (min-width: 550px) {
+    
+    .container {
+        max-width: 500px;
+        background: green;
+    }
+    
+    .photo {
+        width: 9rem;
+        margin-right: 1rem;
+    }
+    
+    a {
+        display: flex;
+    }
+    
+}
+
+@media only screen and (min-width: 950px) {
+    
+    html {
+        font-size: 25px;
+    }
+
+    .container {
+        background: red;
+    }
+    
+}
