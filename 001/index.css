@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: white;
+    font-family: 'Poppins';
+}
+
+html {
+    font-size: 16px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    background: rgb(255,255,255,0.2);
+    border-radius: .3em;
+    
+    margin: 1em;
+    padding: 1em;
+}
