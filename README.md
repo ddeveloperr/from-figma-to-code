@@ -8,24 +8,24 @@ Practice making high-quality mockups a reality in the browser with five stunning
 
 ## What I learned experimented with?
 
-Viewing Figma designs
-Using ems and rems
-Structuring HTML
-Flexbox
-CSS Grid
-Responsive development
-Animated navigations
-Mobile-first development
-Using SVGs
-Media queries
-Forms
-Advanced backgrounds
-Burger menus
-Logos
-Icons
-Dropdowns
-Like functionality
-Complex grid layouts
+* Viewing Figma designs
+* Using ems and rems
+* Structuring HTML
+* Flexbox
+* CSS Grid
+* Responsive development
+* Animated navigations
+* Mobile-first development
+* Using SVGs
+* Media queries
+* Forms
+* Advanced backgrounds
+* Burger menus
+* Logos
+* Icons
+* Dropdowns
+* Like functionality
+* Complex grid layouts
 
 ## List of projects:
 
